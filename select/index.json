@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Love Me Better",
+  "base_artist": "Joji",
+  "createdAt": "2026-02-12T01:34:11.941209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Me Better",
+      "artist": "Wiguez feat. Vizzen",
+      "has_synced": true,
+      "path": "select/01_Love_Me_Better_Wiguez_feat._Vizzen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Me Better",
+      "artist": "Wiguez",
+      "has_synced": true,
+      "path": "select/02_Love_Me_Better_Wiguez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Me Better",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/03_Love_Me_Better_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Me Better",
+      "artist": "Love Thy Brother feat. Ariel Beesley",
+      "has_synced": false,
+      "path": "select/04_Love_Me_Better_Love_Thy_Brother_feat._Ariel_Beesley.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Me Better (feat. Leah Guest) [Mixed]",
+      "artist": "Jess Bays",
+      "has_synced": true,
+      "path": "select/05_Love_Me_Better_(feat._Leah_Guest)_[Mixed]_Jess_Bays.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Me Better (feat. Leah Guest)",
+      "artist": "Jess Bays",
+      "has_synced": true,
+      "path": "select/06_Love_Me_Better_(feat._Leah_Guest)_Jess_Bays.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Me Better (Explicit)",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/07_Love_Me_Better_(Explicit)_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Me Better (with Shift K3Y & Jonasu, feat. Marc E. Bassy) - Jonasu Remix",
+      "artist": "Dillon Francis feat. Shift K3Y, Jonasu & Marc E. Bassy",
+      "has_synced": true,
+      "path": "select/08_Love_Me_Better_(with_Shift_K3Y_&_Jonasu,_feat._Marc_E._Bassy)_-_Jonasu_Remix_Dillon_Francis_feat._Shift_K3Y,_Jonasu_&_Marc_E._Bassy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Me Better (with Shift K3Y & Jonasu, feat. Marc E. Bassy) - Jonasu Remix",
+      "artist": "Dillon Francis",
+      "has_synced": true,
+      "path": "select/09_Love_Me_Better_(with_Shift_K3Y_&_Jonasu,_feat._Marc_E._Bassy)_-_Jonasu_Remix_Dillon_Francis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Me Better (with Shift K3Y & Marc E. Bassy)",
+      "artist": "Dillon Francis feat. Shift K3Y & Marc E. Bassy",
+      "has_synced": true,
+      "path": "select/10_Love_Me_Better_(with_Shift_K3Y_&_Marc_E._Bassy)_Dillon_Francis_feat._Shift_K3Y_&_Marc_E._Bassy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Me Better (with Shift K3Y & Marc E. Bassy)",
+      "artist": "Dillon Francis & Shift K3Y feat. Marc E. Bassy",
+      "has_synced": true,
+      "path": "select/11_Love_Me_Better_(with_Shift_K3Y_&_Marc_E._Bassy)_Dillon_Francis_&_Shift_K3Y_feat._Marc_E._Bassy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Me Better (feat. Marc E. Bassy)",
+      "artist": "Dillon Francis & Shift K3Y",
+      "has_synced": true,
+      "path": "select/12_Love_Me_Better_(feat._Marc_E._Bassy)_Dillon_Francis_&_Shift_K3Y.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Me Better",
+      "artist": "Intro",
+      "has_synced": true,
+      "path": "select/13_Love_Me_Better_Intro.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Me Better",
+      "artist": "Trey Songz",
+      "has_synced": true,
+      "path": "select/14_Love_Me_Better_Trey_Songz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Me Better",
+      "artist": "Corbyn Besson",
+      "has_synced": true,
+      "path": "select/15_Love_Me_Better_Corbyn_Besson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Me Better",
+      "artist": "Nicky Romero",
+      "has_synced": false,
+      "path": "select/16_Love_Me_Better_Nicky_Romero.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love Me Better",
+      "artist": "Sharon Corr",
+      "has_synced": false,
+      "path": "select/17_Love_Me_Better_Sharon_Corr.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Me Better",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Me_Better_Joji.txt"
+    }
+  ]
+}
